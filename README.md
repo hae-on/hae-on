@@ -1,4 +1,11 @@
-### Hi there 👋
+<!-- 
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&type=slice&fontAlign=70&rotate=30&color=random&height=200&fontSize=40)
+
+ -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hae-on&&show_icons=true&theme=jolly)](https://github.com/hae-on/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hae-on&layout=compact)](https://github.com/hae-on/github-readme-stats)
 
 <!--
 **hae-on/hae-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
