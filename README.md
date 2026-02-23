@@ -46,8 +46,8 @@
 | 🎲 **Luck & Roll** | 오늘의 점수는? 사주로 읽는 하루| [🔗](https://luck-roll-navy.vercel.app) |
 | 🎂 **Your Cake** | 생일 축하해! 친구에게 보내는 레트로 생일 카드 | [🔗](https://your-cake.vercel.app/intro) |
 | 🍅 **Pomodoro** | 딴짓 금지! 타이머 하나로 만드는 집중의 습관 | [🔗](https://play.google.com/store/apps/details?id=com.exa.pomodoro) |
-| 🌱 **인디로** | 혼자 서는 게 막막할 때, 자립준비청년을 위한 정책 큐레이팅 | [🔗](https://indie-ro.github.io/INDIE-RO/) |
-| 🥄 **펀잇 (Fun-it)** | 궁금해? 맛있을걸? 먹어봐, 편의점 리뷰와 꿀조합을 한곳에서 | [🔗](https://funeat-git-feat-v2-hae-ons-projects.vercel.app/) |
+| 🍀 **인디로** | 혼자 서는 게 막막할 때, 자립준비청년을 위한 정책 큐레이팅 | [🔗](https://indie-ro.github.io/INDIE-RO/) |
+| 🥄 **펀잇** | 궁금해? 맛있을걸? 먹어봐, 편의점 리뷰와 꿀조합을 한곳에서 | [🔗](https://funeat-git-feat-v2-hae-ons-projects.vercel.app/) |
 | 📓 **프롤로그** | 배운 걸 기록하는 우아한테크코스 학습로그 저장소 | [🔗](https://prolog.techcourse.co.kr/studylogs) |
 
 </div>
