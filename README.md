@@ -5,7 +5,6 @@
 [![📧 Email](https://img.shields.io/badge/📧_Email-B5A9D4?style=flat-square)](mailto:solbi2004@naver.com)
 [![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-B5A9D4?style=flat-square)](https://www.linkedin.com/in/solbi-baek-a92642323/)
 [![📝 Blog](https://img.shields.io/badge/📝_Blog-B5A9D4?style=flat-square)](https://hae-on.tistory.com)
-[![👀](https://komarev.com/ghpvc/?username=hae-on&color=B5A9D4&style=flat-square&label=%F0%9F%91%80)](https://github.com/hae-on)
 </div>
 
 <br />
