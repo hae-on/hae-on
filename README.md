@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/aab4d6cd-6ea3-4884-ab53-8190dd3b100c" width="320" />
+<img src="https://github.com/user-attachments/assets/aab4d6cd-6ea3-4884-ab53-8190dd3b100c" width="240" />
 <br/><br/>
 
 [![📧 Email](https://img.shields.io/badge/📧_Email-B5A9D4?style=flat-square)](mailto:solbi2004@naver.com)
